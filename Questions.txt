@@ -1,0 +1,3 @@
+How many fundamental data types in C are there? Write names.
+how many parts of chemistry? write name.
+full Form of SDP.
